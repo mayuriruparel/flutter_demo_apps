@@ -10,8 +10,8 @@ Author Name: Mayuri Ruparel
 Email: mayuri2411@gmail.com
 
 - [Git Hub Repository](https://github.com/mayuriruparel/flutter_demo_apps)
-- [Linked In](https://www.linkedin.com/in/mayurirajani/)
-- [Facebook Page](https://www.facebook.com/ReevaAcademy/)
+- [LinkedIn](https://www.linkedin.com/in/mayurirajani/)
+- [FacebookPage](https://www.facebook.com/ReevaAcademy/)
 - [Twitter](https://twitter.com/mayuriur)
 - [Instagram](https://www.instagram.com/mayuriruparel/)
 - [Youtube Video Tutorials](https://www.youtube.com/channel/UCZt89L51JcD17IjIyipWPhQ)
