@@ -16,3 +16,4 @@ Email: mayuri2411@gmail.com
 - [Youtube Video Tutorials](https://www.youtube.com/channel/UCZt89L51JcD17IjIyipWPhQ)
 
 
+<img src='https://github.com/mayuriruparel/flutter_demo_apps/blob/master/preview_images/Flutter%20tutorial%20series%20with%20mayuri%20ruparel%20learn%20flutter%202019.png' alt='flutter tutorials by mayuri ruparel'/>
