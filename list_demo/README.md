@@ -6,6 +6,7 @@ A new Flutter project Demonstrating use of Lists and List View in Flutter.
 
 
 Author Name: Mayuri Ruparel
+<br/>
 Email: mayuri2411@gmail.com
 
 - [Git Hub Repository](https://github.com/mayuriruparel/flutter_demo_apps)
