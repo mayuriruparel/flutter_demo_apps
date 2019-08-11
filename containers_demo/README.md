@@ -1,16 +1,22 @@
 # containers_demo
 
-A new Flutter project.
+A new Flutter project Demonstrating use of Containers in Flutter.
 
-## Getting Started
+# Learn Flutter with Mayuri Ruparel
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Author Name: Mayuri Ruparel
+<br/>
+Email: mayuri2411@gmail.com
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Git Hub Repository](https://github.com/mayuriruparel/flutter_demo_apps)
+- [LinkedIn](https://www.linkedin.com/in/mayurirajani/)
+- [FacebookPage](https://www.facebook.com/ReevaAcademy/)
+- [Twitter](https://twitter.com/mayuriur)
+- [Instagram](https://www.instagram.com/mayuriruparel/)
+- [Youtube Video Tutorials](https://www.youtube.com/channel/UCZt89L51JcD17IjIyipWPhQ)
+- [Blogger](http://catchmayuri.blogspot.com/)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<a href='https://www.youtube.com/channel/UCZt89L51JcD17IjIyipWPhQ'>
+<img src='https://github.com/mayuriruparel/flutter_demo_apps/blob/master/preview_images/Flutter%20tutorial%20series%20with%20mayuri%20ruparel%20learn%20flutter%202019.png' alt='flutter tutorials by mayuri ruparel'/>
+</a>

@@ -15,6 +15,7 @@ Email: mayuri2411@gmail.com
 - [Twitter](https://twitter.com/mayuriur)
 - [Instagram](https://www.instagram.com/mayuriruparel/)
 - [Youtube Video Tutorials](https://www.youtube.com/channel/UCZt89L51JcD17IjIyipWPhQ)
+- [Blogger](http://catchmayuri.blogspot.com/)
 
 
 <a href='https://www.youtube.com/channel/UCZt89L51JcD17IjIyipWPhQ'>
