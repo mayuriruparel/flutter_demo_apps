@@ -4,6 +4,9 @@ A Flutter Tutorial project Demonstrating Shared Prefrences in Flutter applicatio
 
 # Learn Flutter with Mayuri Ruparel
 
+#Following Shared Prefrences Plugin has been used as an dependency while making this demo
+
+https://pub.dev/packages/shared_preferences
 
 Author Name: Mayuri Ruparel
 <br/>
