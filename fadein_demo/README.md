@@ -1,6 +1,6 @@
-# flutter_sqflite_demo
+# flutter_fadein_images_demo
 
-A Flutter Tutorial project Demonstrating on how to use SQFlite in Flutter applications.
+A Flutter Tutorial project Demonstrating on how to use Fadein Images in Flutter applications.
 
 # Learn Flutter with Mayuri Ruparel
 

@@ -1,6 +1,6 @@
 # gridview_demo
 
-A Flutter Tutorial project Demonstrating on how to use TABS in Flutter applications.
+A Flutter Tutorial project Demonstrating on how to use Grid View in Flutter applications.
 
 # Learn Flutter with Mayuri Ruparel
 
