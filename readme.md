@@ -1,6 +1,6 @@
 
-# Flutter with Mayuri Ruparel
-# Please Star Git Repo - Its free :) 
+# Learn Flutter with Mayuri Ruparel
+
 
 Author Name: Mayuri Ruparel
 <br/>
