@@ -10,7 +10,7 @@ Email: mayuri2411@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/mayurirajani/)
 - [Facebook](https://www.facebook.com/ReevaAcademy/)
 - [Twitter](https://twitter.com/mayuriur)
-- [Instagram](https://www.instagram.com/mayuriruparel/)
+- [Instagram](https://www.instagram.com/reevacademy/)
 - [Blogger](http://catchmayuri.blogspot.com/)
 - [Youtube Video Tutorials](https://www.youtube.com/channel/UCZt89L51JcD17IjIyipWPhQ)
 
