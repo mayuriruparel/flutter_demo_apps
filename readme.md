@@ -8,9 +8,9 @@ Email: mayuri2411@gmail.com
 
 - [Git Hub Repository](https://github.com/mayuriruparel/flutter_demo_apps)
 - [LinkedIn](https://www.linkedin.com/in/mayurirajani/)
-- [Facebook](https://www.facebook.com/ReevaAcademy/)
+- [Facebook](https://www.facebook.com/mayuriruparel.tech)
 - [Twitter](https://twitter.com/mayuriur)
-- [Instagram](https://www.instagram.com/reevacademy/)
+- [Instagram](https://www.instagram.com/mayuriruparel.tech/)
 - [Blogger](http://catchmayuri.blogspot.com/)
 - [Youtube Video Tutorials](https://www.youtube.com/channel/UCZt89L51JcD17IjIyipWPhQ)
 
